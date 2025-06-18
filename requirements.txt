@@ -1,4 +1,3 @@
-openai
 langchain
-python-dotenv
+ollama
 duckduckgo-search
