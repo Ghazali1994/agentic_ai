@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+*.env
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+*.swp
+
+# Logs and outputs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Ollama model cache (if any in future)
+ollama/
+
+# Jupyter notebook checkpoints (if you add any)
+.ipynb_checkpoints/
